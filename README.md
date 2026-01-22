@@ -1,6 +1,3 @@
-# Assignment_USP-Studios
- 
-
  Project Architecture
 
  
